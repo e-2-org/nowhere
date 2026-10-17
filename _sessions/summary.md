@@ -1,6 +1,6 @@
 # Now Here / Nowhere in HTML: session summary
 
-13 October 2026, working with Claude Code on `main`. The same session also worked on Tome, Word Perhect, Adelaide and A House Is Not A Home (see those repositories). The Now Here / Nowhere part of the conversation is in [2026-10-13-transcript.md](2026-10-13-transcript.md).
+13 October 2026, working with Claude Code on `main`. The same session also worked on Tome, Word Perhect, Adelaide and A House Is Not A Home (see those repositories). The Now Here / Nowhere part of the conversation is in [transcript.md](transcript.md).
 
 ## Aim
 
